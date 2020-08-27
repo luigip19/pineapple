@@ -35,13 +35,13 @@
     "sauce-tunnel": "^2.5.0",
     "uglify-js": "2.7.5",
     "webpack": "^1.14.0",
-	"lodash": "3.10.2",
+	"lodash": "4.17.17",
 	"request": "2.83.0",
 	"moment": "2.19.3",
 	"express": "4.16.2"
 	},
   "dependencies": {
-	"lodash": "3.10.2",
+	"lodash": "4.17.17",
 	"request": "2.83.0",
 	"moment": "2.19.3",
 	"express": "4.16.2"
